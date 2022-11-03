@@ -13,8 +13,8 @@ export default function Testimonials() {
       </h1>
       <img
             className="bg-white"
-            alt="Resume of Danny"
-            src="./DannyResume.pdf"
+            alt="Portrait of Danny"
+            src="./Danny Galan's Resume.pdf"
           />
         </div>
         </div>
