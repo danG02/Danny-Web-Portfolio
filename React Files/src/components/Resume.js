@@ -12,9 +12,9 @@ export default function Testimonials() {
         My Resume
       </h1>
       <img
-            className="bg-white"
-            alt="Portrait of Danny"
-            src="./Danny Galan's Resume.pdf"
+            className="bg-white lg:max-w-lg lg:w-full md:w-1/2 w-5/6"
+            alt="Resume of Danny"
+            src="./Danny Galan's Resume.png"
           />
         </div>
         </div>
