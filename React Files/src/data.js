@@ -14,6 +14,14 @@ export const projects = [
       "A very basic form of tetris, a few bugs to clean up, but includes a start/pause button and move with the arrow keys on the keyboard.",
     image: "./BT.gif",
     link: "https://dang02.github.io/Tetris-Game/?",
+  },
+  {
+    title: "Fitness Blog",
+    subtitle: "Wordpress, Google Domain, Google Analytics",
+    description:
+      "Fitness blog, that offers articles on fitness, motivation, healthy eating lifestyle, and more, all written by me.",
+    image: "./FB.gif",
+    link: "https://broteinfitness.com",
   }
 ];
 

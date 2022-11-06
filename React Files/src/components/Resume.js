@@ -16,6 +16,12 @@ export default function Testimonials() {
             alt="Resume of Danny"
             src="./Danny Galan's Resume.png"
           />
+          <a
+          href="./Danny Galan's Resume.png"
+          download={"./Danny Galan's Resume.png"}
+          className="inline-flex text-white bg-green-500 border-0 py-2 px-6 mt-4 focus:outline-none hover:bg-green-600 rounded text-lg">
+          Download Here
+          </a>
         </div>
         </div>
     </section>
